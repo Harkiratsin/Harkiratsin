@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harkiratsin
+- 👋 Hi, I’m @Harkirat Singh
 - 👀 I’m interested in ... IOS , Web development and Python.
 - 🌱 I’m currently learning ... Python and Web development
 - 💞️ I’m looking to collaborate on ... learn on Github
